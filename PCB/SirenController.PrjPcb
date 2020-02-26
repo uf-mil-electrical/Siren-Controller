@@ -38,24 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\SirenSchematic.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JAYDYHFT
-
-[Document2]
-DocumentPath=..\SirenControllerPCB.PcbDoc
+DocumentPath=SirenControllerPCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -71,13 +54,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPBQYWOP
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for SirenController\Design Rule Check - SirenControllerPCB.html
+[Document2]
+DocumentPath=SirenSchematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SirenController\Design Rule Check - SirenControllerPCBCopy.html
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JAYDYHFT
 
 [Configuration1]
 Name=Sources
